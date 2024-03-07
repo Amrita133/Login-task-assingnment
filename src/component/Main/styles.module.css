@@ -1,0 +1,27 @@
+.table-container {
+    margin: 20px;
+  }
+  
+  .people-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .people-table th, .people-table td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .people-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .people-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .people-table tr:hover {
+    background-color: #dddddd;
+  }
+  
